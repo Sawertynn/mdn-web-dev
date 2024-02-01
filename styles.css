@@ -2,3 +2,11 @@ body {
     color: #eee;
     background-color: #111;
 }
+
+a {
+    color: rgb(48, 210, 228)
+}
+
+a:visited {
+    color: rgb(197, 42, 184)
+}
