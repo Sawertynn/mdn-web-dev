@@ -7,6 +7,10 @@ a {
     color: rgb(48, 210, 228)
 }
 
+a:hover {
+    filter: brightness(150%);
+}
+
 a:visited {
     color: rgb(197, 42, 184)
 }
